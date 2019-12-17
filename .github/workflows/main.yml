@@ -2,6 +2,7 @@ on:
   schedule:
   - cron: "0 0 * * *"
     
+    
 jobs:
   build:
     name: Hello world action
